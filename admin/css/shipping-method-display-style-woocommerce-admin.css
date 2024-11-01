@@ -1,0 +1,49 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .plugin-card{
+    width:100% !important;
+ }
+
+ .pi-container{
+    display: flex;
+ }
+
+ .pi-col1{
+    width: 55%;
+ }
+
+ .pi-col2{
+   width: 45%;
+}
+
+.open-plugin-details-modal{
+   font-size:16px
+}
+ .pi-col1 select{
+   max-width:100% !important;
+   width:100% !important;
+ }
+
+ @media(max-width: 968px){
+    .pi-container{
+        display: block;
+    }
+    .pi-col1, .pi-col2{
+        width: 100%;
+    }
+ }
+
+ .pagination-links{
+    display:none !important;
+ }
+
+ .tablenav-pages{
+    display:none !important;
+ }
+
+ .tablenav{
+   display: none !important;
+ }

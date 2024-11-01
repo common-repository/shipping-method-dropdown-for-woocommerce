@@ -1,0 +1,149 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shipping method dropdown for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-25 02:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.4.2\n"
+"X-Domain: shipping-method-dropdown-for-woocommerce"
+
+#: admin/partials/options-form.php:100
+msgid "All options"
+msgstr ""
+
+#: admin/partials/options-form.php:80
+msgid "Arrange shipping method"
+msgstr ""
+
+#: admin/partials/options-form.php:86
+msgid "Ascending order (cheapest one selected by default)"
+msgstr ""
+
+#: admin/partials/options-form.php:87
+msgid "Descending order (expensive one selected by default)"
+msgstr ""
+
+#: admin/partials/options-form.php:21
+msgid "Display shipping methods as Radio buttons or Dropdowns"
+msgstr ""
+
+#: admin/partials/options-form.php:33
+msgid "Display shipping methods in a dropdown"
+msgstr ""
+
+#: admin/partials/options-form.php:28
+msgid "Display shipping methods with \"radio\" buttons"
+msgstr ""
+
+#: admin/partials/options-form.php:48
+msgid "Do not auto select shipping method"
+msgstr ""
+
+#: admin/partials/options-form.php:110
+msgid "Exclude local pickup from removal"
+msgstr ""
+
+#: admin/partials/options-form.php:43
+msgid "Force user to select a shipping method of his chose"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://piwebsolution.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.piwebsolution.com/shop/"
+msgstr ""
+
+#: admin/partials/options-form.php:56
+msgid ""
+"If you are not seeing dropdown in that case enable this option to overwrite "
+"theme cart template"
+msgstr ""
+
+#: admin/partials/options-form.php:61
+msgid "If your theme overwrite cart template then enable this option"
+msgstr ""
+
+#: admin/partials/options-form.php:43
+msgid ""
+"No shipping method will be selected by default, so user has to select a "
+"shipping method of his choice by himself"
+msgstr ""
+
+#: admin/partials/options-form.php:85
+msgid "Original order"
+msgstr ""
+
+#: admin/partials/options-form.php:56
+msgid "Over write theme cart template"
+msgstr ""
+
+#. Author of the plugin
+msgid "PI Websolution"
+msgstr ""
+
+#: shipping-method-display-style-woocommerce.php:40
+msgid ""
+"Please Install and Activate WooCommerce plugin, without that this plugin "
+"can't work"
+msgstr ""
+
+#: admin/partials/options-form.php:21
+msgid "Select Display Style"
+msgstr ""
+
+#: admin/class-shipping-method-display-style-woocommerce-admin.php:65
+msgid "Shipping display style"
+msgstr ""
+
+#. Name of the plugin
+msgid "Shipping method dropdown for WooCommerce"
+msgstr ""
+
+#: admin/partials/options-form.php:14
+msgid "Shipping Method Style"
+msgstr ""
+
+#: admin/partials/options-form.php:73
+msgid "Show 0 cost behind the Free shipping method "
+msgstr ""
+
+#: admin/partials/options-form.php:101
+msgid "Show cheapest option only"
+msgstr ""
+
+#: admin/partials/options-form.php:102
+msgid "Show most expensive option only"
+msgstr ""
+
+#: admin/partials/options-form.php:95
+msgid "Show only single shipping option cheapest or the the most expensive one"
+msgstr ""
+
+#: admin/partials/options-form.php:80
+msgid "Show shipping method in ascending or descending order"
+msgstr ""
+
+#: admin/partials/options-form.php:95
+msgid "Show single shipping option"
+msgstr ""
+
+#: admin/partials/options-form.php:68
+msgid "Show zero behind free shipping method"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin allows you to change the display style of the woocommerce "
+"shipping method on the cart and checkout page and various form"
+msgstr ""
